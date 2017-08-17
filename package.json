@@ -1,0 +1,15 @@
+{
+  "name": "Steeve the Duck",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "steeve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caty",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.7"
+  }
+}
